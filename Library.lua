@@ -192,8 +192,8 @@ local Library = {
 
     OriginalMinSize = Vector2.new(480, 360),
     MinSize = Vector2.new(480, 360),
-    DPIScale = 0.7,
-    CornerRadius = 6,
+    DPIScale = 1,
+    CornerRadius = 8,
 
     IsLightTheme = false,
     Scheme = {
