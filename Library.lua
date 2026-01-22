@@ -192,7 +192,7 @@ local Library = {
 
     OriginalMinSize = Vector2.new(480, 360),
     MinSize = Vector2.new(480, 360),
-    DPIScale = 0.6,
+    DPIScale = 0.7,
     CornerRadius = 6,
 
     IsLightTheme = false,
@@ -283,7 +283,7 @@ local Templates = {
         Title = "No Title",
         Footer = "No Footer",
         Position = UDim2.fromOffset(6, 6),
-        Size = UDim2.fromOffset(720, 850),
+        Size = UDim2.fromOffset(850, 600),
         IconSize = UDim2.fromOffset(30, 30),
         AutoShow = true,
         Center = true,
